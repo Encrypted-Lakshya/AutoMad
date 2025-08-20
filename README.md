@@ -1,4 +1,4 @@
-AutoMAD – Automation Dashboard
+#AutoMAD – Automation Dashboard
 
 A centralized platform for managing automation tasks seamlessly using Python & Streamlit.
 
